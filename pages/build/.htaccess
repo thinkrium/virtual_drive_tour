@@ -1,0 +1,11 @@
+<files build.php>
+   order allow,deny
+   deny from all
+</files>
+
+<files main.php>
+   order allow,deny
+   deny from all
+</files>
+
+Options -Indexes

@@ -1,0 +1,20 @@
+[26-Jul-2018 15:54:49 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[26-Jul-2018 16:15:55 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[30-Jul-2018 03:45:25 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[30-Jul-2018 03:46:33 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0

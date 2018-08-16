@@ -1,0 +1,8 @@
+#order deny, allow
+#deny from all
+#allow 127.0.0.1
+
+<files db.php>
+   order allow,deny
+   deny from all
+</files>

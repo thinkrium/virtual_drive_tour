@@ -1,0 +1,1 @@
+{"object":"page","entry":[{"id":"400569897112966","time":1534102533917,"messaging":[{"sender":{"id":"1801478803233034"},"recipient":{"id":"400569897112966"},"timestamp":1534102533595,"message":{"quick_reply":{"payload":"yes_to_virtual_tour"},"mid":"AmlCF6XQntKty7zdqjj5GHivmrGgSlhwflP-yXb1H9zH4JCMT6w_35h598J1v7xrtYcYTJchu5m9sRCWn3brMg","seq":239395,"text":"Yes"}}]}]}
